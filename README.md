@@ -1,4 +1,4 @@
-# Jamal D. Waites
+# Jamal Waites
 
 Principal / Director-level DevOps & Platform Architect — 25+ years across financial services, health insurance, pharmaceutical, and retail. Currently focused on cloud-native platform engineering, DevSecOps, and applying Generative AI / Agentic AI (Cursor, Copilot Agents, MCP) to engineering delivery.
 
